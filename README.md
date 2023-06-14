@@ -15,6 +15,6 @@ SaDe：Differential Evolution Algorithm With Strategy Adaptation for Global Nume
   pages={398--417},\
   year={2008},\
   publisher={IEEE}\
-}\
+}
 
 SaDe.py ,是对SaDe论文的复现，代码中有示例，注释就没有写上去。
